@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# Environment & secrets
+.env
+.env.*
+*.env
+secrets.py
+config.py
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large model files (optional - remove if you want to track them)
+# *.pkl
+
+# Logs
+*.log
