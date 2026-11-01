@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+joblib
+pandas
+numpy
+openai
+requests
+beautifulsoup4
+scikit-learn
+PySastrawi
